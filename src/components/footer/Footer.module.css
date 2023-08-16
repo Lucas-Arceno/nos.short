@@ -1,0 +1,15 @@
+.main-text{
+  color: #27272A;
+  text-align: center;
+  font-family: Open Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%; 
+  padding: 16px;
+}

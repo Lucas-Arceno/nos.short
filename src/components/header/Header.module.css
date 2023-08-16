@@ -1,0 +1,38 @@
+.main-container{
+  margin: 16px;
+}
+
+.logo-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0; 
+  padding: 27px;
+}
+
+.text-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 100px;
+  gap: 8px;
+}
+
+.main-text{
+  color: var(--zinc-950, #09090B);
+  font-family: Playfair Display;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal; 
+}
+
+.sub-text{
+  color: var(--zinc-950, #09090B);
+  font-family: Open Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal; 
+}

@@ -1,0 +1,118 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 8px;
+  align-self: stretch;
+  height: 400px;
+  overflow-y: auto;
+}
+
+.second-container{
+  display: flex;
+  width: 474px;
+  align-items: flex-start;
+  gap: 16px; 
+}
+
+.sub-text{
+  color: var(--zinc-300, #D4D4D8);
+  font-family: Open Sans;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal; 
+  padding-bottom: 8px;
+}
+
+.link-text{
+  color: #27272A;
+  text-align: center;
+  /* Body/Small */
+  font-family: Open Sans;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal; 
+}
+
+.link-text:link {
+  text-decoration: none;
+}
+
+.input-style{
+  display: flex;
+  padding: 12px 24px;
+  flex-direction: column;
+  align-items: flex-start;
+  flex: 1 0 0;
+  align-self: stretch; 
+  border-radius: 8px;
+  border: 2px solid var(--zinc-300, #D4D4D8);
+  background: var(--zinc-50, #FAFAFA);
+}
+
+.button-style {
+  border: none;
+  display: flex;
+  justify-content: center; /* Centraliza horizontalmente */
+  align-items: center; /* Centraliza verticalmente */
+  padding: 8px;
+  border-radius: 8px;
+  background: var(--amber-500, #EAB308) center/30px 30px no-repeat url('../../../public/img/Clipboard.svg');
+  width: 46px;
+  height: 46px;
+}
+
+.button-style:hover{
+  background: var(--amber-300, #FCD34D) center/30px 30px no-repeat url('../../../public/img/Clipboard.svg');
+}
+
+.button-style:active{
+  background: var(--amber-800, #92400E) center/30px 30px no-repeat url('../../../public/img/Clipboard.svg');
+}
+
+
+.input-style::placeholder{
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1; 
+
+  overflow: hidden;
+  color: var(--zinc-400, #A1A1AA);
+  text-overflow: ellipsis;
+  font-family: Open Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal; 
+}
+
+.remove-icon{
+  width: 30px;
+  height: 30px; 
+}
+
+.remove-button{
+  cursor: pointer;
+  display: flex;
+  padding: 8px;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  align-self: stretch; 
+  border-radius: 8px; 
+  border: none;
+  background: none;
+}
+
+.remove-text{
+  color: var(--zinc-950, #09090B);
+  /* Body/Normal/Bold */
+  font-family: Open Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal; 
+}
