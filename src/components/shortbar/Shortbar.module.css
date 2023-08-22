@@ -47,6 +47,15 @@
   gap: 16px; 
 }
 
+@media screen and (max-width: 500px) {
+  .second-container {
+    display: flex;
+    width: 328px;
+    align-items: flex-start;
+    gap: 16px; 
+  }
+}
+
 .input-style{
   display: flex;
   padding: 12px 24px;
