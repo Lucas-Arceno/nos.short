@@ -1,4 +1,4 @@
-# nos.shor
+# nos.short
 
 Bem-vindo ao repositório do projeto nos.short! Este projeto consiste em um site que permite o encurtamento de links. É importante ressaltar que esse projeto faz parte de um desafio da equipe do nós, e todo design foi construído e fornecidos pelos mesmos para a criação do site. Segue links disponibilizados pela equipe NÓS.
 
