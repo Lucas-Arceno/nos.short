@@ -39,7 +39,6 @@
 .link-text{
   color: #27272A;
   text-align: center;
-  /* Body/Small */
   font-family: Open Sans;
   font-size: 12px;
   font-style: normal;
@@ -66,8 +65,8 @@
 .button-style {
   border: none;
   display: flex;
-  justify-content: center; /* Centraliza horizontalmente */
-  align-items: center; /* Centraliza verticalmente */
+  justify-content: center; 
+  align-items: center; 
   padding: 8px;
   border-radius: 8px;
   background: var(--amber-500, #EAB308) center/30px 30px no-repeat url('../../../public/img/Clipboard.svg');
@@ -119,7 +118,6 @@
 
 .remove-text{
   color: var(--zinc-950, #09090B);
-  /* Body/Normal/Bold */
   font-family: Open Sans;
   font-size: 16px;
   font-style: normal;

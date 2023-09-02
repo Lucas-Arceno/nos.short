@@ -1,5 +1,5 @@
 body {
-  margin: 0; /* Remove margens padrão do body para garantir cobertura total */
-  padding: 0; /* Remove preenchimentos padrão do body para garantir cobertura total */
-  background: var(--zinc-50, #FAFAFA); /* Define o fundo global */
+  margin: 0; 
+  padding: 0; 
+  background: var(--zinc-50, #FAFAFA); 
 }
