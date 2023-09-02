@@ -3,7 +3,7 @@
 Bem-vindo ao repositório do projeto nos.short! Este projeto consiste em um site que permite o encurtamento de links. É importante ressaltar que esse projeto faz parte de um desafio da equipe do nós, e todo design foi construído e fornecidos pelos mesmos para a criação do site. Segue links disponibilizados pela equipe NÓS.
 
 [Design](https://www.figma.com/file/Yc5fm1EfYSRDbUifTY8kkF/Sele%C3%A7%C3%A3o-de-desenvolvedores-2023%2F2?type=design&node-id=1-2&mode=design)
-[Notion Desafio]([https://lucas-arceno.github.io/GradeUTFPR/](https://midi-seashore-228.notion.site/Projeto-final-fc138acd49dc4101b8a02f87b72e0182)
+[Notion Desafio](https://midi-seashore-228.notion.site/Projeto-final-fc138acd49dc4101b8a02f87b72e0182)
 
 ## Descrição
 
